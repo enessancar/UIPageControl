@@ -5,5 +5,6 @@ IOS 14 ve üzeri yazılımların desteklediği bir özwlliğide ekledim page con
 kaldırmadan gezebiliyorsunuz. Trendyol gibi ürün görseli paylaşan şirketler kullanıyorlar applerinde.
 
 
-Uploading Simulator Screen Recording - iPhone 14 - 2023-05-21 at 01.22.50.mov…
+
+https://github.com/enessancar/UIPageControl/assets/79282025/97425b8c-ddd5-4672-8858-b5ec6167de90
 
